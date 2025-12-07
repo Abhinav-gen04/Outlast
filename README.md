@@ -34,7 +34,7 @@ This project is licensed under the MIT License, a short and simple permissive li
 - Open terminal/console window. 
 - Clone the repository by running following command in git:
  ```bash
-$ git clone https://github.com/[YOUR-USERNAME]/zomboid-survival.git
+$ git clone https://github.com/[YOUR-USERNAME]/Outlast.git
 ```
 - Add all changes by running this command.
 ```bash
@@ -52,5 +52,4 @@ $ git push origin
 ```
 - Create a Pull Request by clicking the ```New pull request``` button on your repository page.
 
-<p align="center"> Copyright (c) 2019 Sai Vittal B. All rights reserved.</p>
-<p align="center"> Made with ❤ by <a href="https://github.com/saivittalb">Sai Vittal B</a></p>
+<p align="center"> Copyright (c) 2025 Abhinav Chauhan. All rights reserved.</p>
