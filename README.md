@@ -1,9 +1,4 @@
 # Zomboid Survival
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![version](https://img.shields.io/badge/version-dev-brightgreen)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
-[![GitHub followers](https://img.shields.io/github/followers/saivittalb.svg?style=social&label=Follow)](https://github.com/saivittalb?tab=followers) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/saivittalb.svg?style=social)](https://twitter.com/saivittalb)
 
 A Unity based First Person Shooter game with a Zombie theme built with Unity terrain using raycasting for shooting and the core mechanics you'd expect in an FPS with available item pick-ups. Zombies use AI navigation and precise pathfinding to chase down the player. The game also has a HUD interface which is VR compatible.
 
@@ -56,9 +51,6 @@ $ git commit -m "DESCRIBE YOUR CHANGES HERE"
 $ git push origin
 ```
 - Create a Pull Request by clicking the ```New pull request``` button on your repository page.
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/saivittalb/) 
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
 <p align="center"> Copyright (c) 2019 Sai Vittal B. All rights reserved.</p>
 <p align="center"> Made with ❤ by <a href="https://github.com/saivittalb">Sai Vittal B</a></p>
