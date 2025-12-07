@@ -1,4 +1,4 @@
-# Zomboid Survival
+# Outlast-The Survival
 
 A Unity based First Person Shooter game with a Zombie theme built with Unity terrain using raycasting for shooting and the core mechanics you'd expect in an FPS with available item pick-ups. Zombies use AI navigation and precise pathfinding to chase down the player. The game also has a HUD interface which is VR compatible.
 
